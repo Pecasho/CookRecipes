@@ -34,6 +34,8 @@ En esta página encontrarás técnicas y recetas para hacer en tu casa. Además 
 
 
 
+Puedes apoyar lo que hago <a href="https://www.buymeacoffee.com/crfaciles">comprándome un café.</a>
 
+¡Gracias por visitar mi página!.
 
 </div></div>
