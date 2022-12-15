@@ -13,7 +13,7 @@
 </div></div>
 
 
-# Bienvenida
+# ¡Saludos!
 
 Hola, bienbenid@.
 
