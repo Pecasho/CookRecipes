@@ -3,6 +3,10 @@
 ---
 
 
+Acá encontrarás diferentes técnicas para preparar la verduras.
+
+
+
 # Cocer al vapor
 Es una manera saludable de preparar las verduras; no se deben cocer en exceso, pues perderán sabor y color.
 
