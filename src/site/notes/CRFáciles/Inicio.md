@@ -28,7 +28,7 @@ En esta página encontrarás técnicas y recetas para hacer en tu casa. Además 
 - [[CRFáciles/Técnicas/Verduras\|Verduras]]
 
 
-
+-----
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
