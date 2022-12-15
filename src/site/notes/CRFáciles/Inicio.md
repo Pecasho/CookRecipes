@@ -20,10 +20,17 @@ Hola, bienbenid@.
 En esta página encontrarás técnicas y recetas para hacer en tu casa. Además encontrarás un menú para buscar recetas por ingredientes.
 
 
-## Recetas
+## Menú
+
+### - Recetas:
+
+   Por ingrediente
+   
+
+   Por nombre
 
 
-## Técnicas
+### - Técnicas:
 
 - [[CRFáciles/Técnicas/Verduras\|Verduras]]
 
