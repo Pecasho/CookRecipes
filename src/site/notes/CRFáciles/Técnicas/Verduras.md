@@ -3,7 +3,7 @@
 ---
 
 
-Acá encontrarás diferentes técnicas para preparar la verduras.
+Acá encontrarás diferentes técnicas para preparar las verduras.
 
 #### Menú rápido:
 
