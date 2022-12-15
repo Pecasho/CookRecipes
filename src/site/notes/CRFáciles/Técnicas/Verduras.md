@@ -5,6 +5,19 @@
 
 Acá encontrarás diferentes técnicas para preparar la verduras.
 
+#### Menú rápido:
+
+[[CRFáciles/Técnicas/Verduras#Cocer al vapor\|• Cocer al vapor]]
+[[CRFáciles/Técnicas/Verduras#Saltear\|• Saltear]]
+[[CRFáciles/Técnicas/Verduras#Cortar bastoncillos de zanahoria\|• Cortar bastoncillos de zanahoria]]
+[[CRFáciles/Técnicas/Verduras#Pelar y trocear cebollas\|• Pelar y trocear cebollas]]
+[[CRFáciles/Técnicas/Verduras#Lavar y cortar puerros en juliana\|• Lavar y cortar puerros en juliana]]
+[[CRFáciles/Técnicas/Verduras#Pelar y picar ajo\|• Pelar y picar ajo]]
+[[CRFáciles/Técnicas/Verduras#Pelar y despepitar tomates\|• Pelar y despepitar tomates]]
+[[CRFáciles/Técnicas/Verduras#Preparar brócoli\|• Preparar brócoli]]
+[[CRFáciles/Técnicas/Verduras#Preparar coliflor\|• Preparar coliflor]]
+[[CRFáciles/Técnicas/Verduras#Preparar verduras de hoja dura\|• Preparar verduras de hoja dura]]
+[[CRFáciles/Técnicas/Verduras#Deshuesar y extraer la pulpa del aguacate\|• Deshuesar y extraer la pulpa del aguacate]]
 
 
 # Cocer al vapor
