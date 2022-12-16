@@ -26,12 +26,17 @@ En esta página encontrarás técnicas y recetas para hacer en tu casa. Además 
 
    Por ingrediente
    - [[CRFáciles/Recursos/Por ingrediente/Azúcar\|Azúcar]]
+   - [[CRFáciles/Recursos/Por ingrediente/Chocolate\|Chocolate]]
+   - [[CRFáciles/Recursos/Por ingrediente/Leche de Coco\|Leche de Coco]]
+   - [[CRFáciles/Recursos/Por ingrediente/Leche de vaca\|Leche de vaca]]
    - [[CRFáciles/Recursos/Por ingrediente/Maíz trillado\|Maíz trillado]]
    - [[CRFáciles/Recursos/Por ingrediente/Nuez Moscada\|Nuez Moscada]]
    - [[CRFáciles/Recursos/Por ingrediente/Piña\|Piña]]
 
    Por nombre
    - [[CRFáciles/Recetas/Colada de piña\|Colada de piña]]
+   - [[CRFáciles/Recetas/Chocolate con leche de coco\|Chocolate con leche de coco]]
+   - 
 
 ### - Técnicas:
 
