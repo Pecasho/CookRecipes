@@ -3,6 +3,8 @@
 ---
 
 
+# Colada de piña
+
 Información:
 • Tiempo de preparación - 1 1/2 horas
 • Dificultad - baja
@@ -24,4 +26,5 @@ Información:
 
 -----
 ## Tags:
+
 #piña #maíz-trillado #azúcar #nuez-moscada
