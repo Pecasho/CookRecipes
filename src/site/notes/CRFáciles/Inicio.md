@@ -25,7 +25,10 @@ En esta página encontrarás técnicas y recetas para hacer en tu casa. Además 
 ### - Recetas:
 
    Por ingrediente
-   
+   - [[CRFáciles/Recursos/Por ingrediente/Azúcar\|Azúcar]]
+   - [[CRFáciles/Recursos/Por ingrediente/Maíz trillado\|Maíz trillado]]
+   - [[CRFáciles/Recursos/Por ingrediente/Nuez Moscada\|Nuez Moscada]]
+   - [[CRFáciles/Recursos/Por ingrediente/Piña\|Piña]]
 
    Por nombre
 
