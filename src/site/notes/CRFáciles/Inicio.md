@@ -31,7 +31,7 @@ En esta página encontrarás técnicas y recetas para hacer en tu casa. Además 
    - [[CRFáciles/Recursos/Por ingrediente/Piña\|Piña]]
 
    Por nombre
-
+   - [[CRFáciles/Recetas/Colada de piña\|Colada de piña]]
 
 ### - Técnicas:
 
