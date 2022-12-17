@@ -4,6 +4,7 @@
 
 
 # Colada de piña
+(Receta del Chocó - Colombia)
 
 Información:
 • Tiempo de preparación - 1 1/2 horas
@@ -19,7 +20,7 @@ Información:
 7. Pizquita de sal.
 
 ## Preparación:
-- Se cocina el maíz en al agua por un aprox. 1 hora, luego se saca, se muela y se cuela con el agua que quede bien diluido.
+- Se cocina el maíz en al agua por un aprox. 1 hora, luego se saca, se muele y se mezcla con el agua hasta que quede bien diluido.
 - Se pone a cocinar hasta que empiece a cuajar (más o menos esto se demora 15 mins.) y luego se le agregan los aliños de chocolate (hay que revolver constantemente), luego el azúcar y por último la piña rallada y su jugo. Se revuelve con una cuchara de palo hasta que cuaje (más o menos esto se demora 10 mins.), luego se le agrega la pizquita de sal y la nuez moscada.
 - Se baja el fuego y se deja reposar.
 - Se sirve fría o tibia.
