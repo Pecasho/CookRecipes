@@ -4,6 +4,7 @@
 
 
 # Chocolate con leche de coco
+(Receta del Chocó - Colombia)
 
 Información:
 • Tiempo de preparación - 20 minutos.
