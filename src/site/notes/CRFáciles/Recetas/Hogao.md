@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/cr-faciles/recetas/hogao/"}
 ---
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Volver al [[CRFáciles/Inicio\|Inicio]]
+
+</div></div>
+
+
 # Hogao
 (Receta del Valle - Colombia)
 
