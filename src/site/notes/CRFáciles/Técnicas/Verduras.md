@@ -44,7 +44,7 @@ Es un método de fritura saludable, ya que se emplea muy poco aceite, y conserva
 # Cortar bastoncillos de zanahoria
 
 ## Pasos:
-1. **Pele las zanahorias** y córtelas por la mitas. Utilice una mandolina, y ajuste la cuchilla para un grosor de 5 mm. Sujete la mandolina firmemente con una mano y presione la zanahoria con la palma de la otra, con los dedos alejados de la hoja. Deslice varias veces cada zanahoria para obtener **láminas**.
+1. **Pele las zanahorias** y córtelas por la mitad. Utilice una mandolina, y ajuste la cuchilla para un grosor de 5 mm. Sujete la mandolina firmemente con una mano y presione la zanahoria con la palma de la otra, con los dedos alejados de la hoja. Deslice varias veces cada zanahoria para obtener **láminas**.
 2. **Apile las láminas** en el orden en que cayeron e iguálelas cortando las partes redondeadas con un cuchillo afilado. Luego córtelas a lo largo en tiras del mismo grosor.
 
 #zanahoria
@@ -134,3 +134,14 @@ Una vez pelado y deshuesado, el aguacate ofrece una densa y sabrosa pulpa.
 > ### _Guardar aguacates_
 > El aguacate debe guardarse en un lugar oscuro y fresco, pero no muy frío. En contacto con el aire, la pulpa se decolora muy rápido. La manera más fácil de detener este proceso es frotar la parte expuesta con un limón o una lima cortados. Envuélvalo en papel film bien tenso sobre la pulpa y guárdelo en la nevera.
 
+----
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Las recetas publicadas acá son tomadas de varios libros de cocina. No intento venderle nada ni cobrar por las recetas, en realidad esta página nace con la idea de hacer una Base de conocimientos libre sobre cocina.
+
+¡Gracias por visitar esta página!.
+
+</div></div>
