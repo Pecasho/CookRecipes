@@ -43,13 +43,6 @@ En esta página encontrarás técnicas y recetas para hacer en tu casa. Además 
 
 
 -----
+Esta es una Base de conocimientos sobre cocina. Espero que le guste y le sirva de alguna manera.
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-Puedes apoyar lo que hago <a href="https://www.buymeacoffee.com/crfaciles">comprándome un café.</a>
-
-¡Gracias por visitar mi página!.
-
-</div></div>
+Si desea apoyarme, podría considerar <a href="https://www.buymeacoffee.com/crfaciles">comprándome un café.</a>
