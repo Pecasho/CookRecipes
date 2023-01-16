@@ -3,6 +3,15 @@
 ---
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Volver al [[CRFáciles/Inicio\|Inicio]]
+
+</div></div>
+
+
 # Colada de piña
 (Receta del Chocó - Colombia)
 
