@@ -3,6 +3,15 @@
 ---
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Volver al [[CRFáciles/Inicio\|Inicio]]
+
+</div></div>
+
+
 # Chocolate con leche de coco
 (Receta del Chocó - Colombia)
 
