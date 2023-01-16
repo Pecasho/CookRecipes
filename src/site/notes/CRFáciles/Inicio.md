@@ -7,7 +7,9 @@
 
 Hola, bienbenid@.
 
-En esta página encontrarás técnicas y recetas para hacer en tu casa. Además encontrarás un menú para buscar recetas por ingredientes.
+En esta página encontrarás técnicas y recetas para hacer en tu casa. Además encontrarás un menú para buscar recetas por ingredientes y por nombre.
+
+Como soy de Colombia, los nombres de algunos ingredientes pueden ser diferentes a los de otros países, por eso te recomiendo que entres en la descripción de los ingredientes, para que sepas a cuál se hace referencia.
 
 
 ## Menú
@@ -15,6 +17,8 @@ En esta página encontrarás técnicas y recetas para hacer en tu casa. Además 
 ### - Recetas:
 
    Por ingrediente
+   - [[CRFáciles/Recursos/Por ingrediente/Ají\|Ají]]
+   - [[CRFáciles/Recursos/Por ingrediente/Ajo\|Ajo]]
    - [[CRFáciles/Recursos/Por ingrediente/Azúcar\|Azúcar]]
    - [[CRFáciles/Recursos/Por ingrediente/Cebolla Cabezona\|Cebolla Cabezona]]
    - [[CRFáciles/Recursos/Por ingrediente/Cebolla Larga\|Cebolla Larga]]
@@ -22,8 +26,11 @@ En esta página encontrarás técnicas y recetas para hacer en tu casa. Además 
    - [[CRFáciles/Recursos/Por ingrediente/Leche de Coco\|Leche de Coco]]
    - [[CRFáciles/Recursos/Por ingrediente/Leche de vaca\|Leche de vaca]]
    - [[CRFáciles/Recursos/Por ingrediente/Maíz trillado\|Maíz trillado]]
+   - [[CRFáciles/Recursos/Por ingrediente/Manteca de cerdo\|Manteca de cerdo]]
    - [[CRFáciles/Recursos/Por ingrediente/Nuez Moscada\|Nuez Moscada]]
+   - [[CRFáciles/Recursos/Por ingrediente/Pimentón\|Pimentón]]
    - [[CRFáciles/Recursos/Por ingrediente/Piña\|Piña]]
+   - [[CRFáciles/Recursos/Por ingrediente/Tomate\|Tomate]]
 
    Por nombre
    - [[CRFáciles/Recetas/Colada de piña\|Colada de piña]]
@@ -36,6 +43,6 @@ En esta página encontrarás técnicas y recetas para hacer en tu casa. Además 
 
 
 -----
-Esta es una Base de conocimientos sobre cocina. Espero que le guste y le sirva de alguna manera.
+Esta es una Base de conocimientos sobre cocina. Espero que te guste y te sirva de alguna manera.
 
-Si desea apoyarme, podría considerar <a href="https://www.buymeacoffee.com/crfaciles">comprándome un café.</a>
+Si deseas apoyarme, podrías considerar <a href="https://www.buymeacoffee.com/crfaciles">comprarme un café.</a>
