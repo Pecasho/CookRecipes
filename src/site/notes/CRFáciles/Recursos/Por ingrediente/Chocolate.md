@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/cr-faciles/recursos/por-ingrediente/chocolate/"}
 ---
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Volver al [[CRFáciles/Inicio\|Inicio]]
+
+</div></div>
+
+
 # Chocolate
 "Alimento que se obtiene mezclando azúcar con dos productos que derivan de la manipulación de las semillas del cacao: la masa del cacao y la manteca de cacao." (Wikipedia)
 
