@@ -3,6 +3,15 @@
 ---
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Volver al [[CRFáciles/Inicio\|Inicio]]
+
+</div></div>
+
+
 # Cebolla Larga
 En gusto y olor es muy similar a la cebolla cabezona
 
