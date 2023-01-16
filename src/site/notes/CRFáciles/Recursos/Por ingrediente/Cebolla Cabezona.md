@@ -3,6 +3,15 @@
 ---
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Volver al [[CRFáciles/Inicio\|Inicio]]
+
+</div></div>
+
+
 # Cebolla Cabezona
 "Es una planta herbácea bienal perteneciente a la familia de las amarilidáceas. Es la especie más cultivada del género Allium, el cual contiene varias especies que se denominan «cebollas» y que se cultivan como alimento." (Wikipedia)
 
