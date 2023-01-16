@@ -26,6 +26,8 @@ En esta página encontrarás técnicas y recetas para hacer en tu casa. Además 
 
    Por ingrediente
    - [[CRFáciles/Recursos/Por ingrediente/Azúcar\|Azúcar]]
+   - [[CRFáciles/Recursos/Por ingrediente/Cebolla Cabezona\|Cebolla Cabezona]]
+   - [[CRFáciles/Recursos/Por ingrediente/Cebolla Larga\|Cebolla Larga]]
    - [[CRFáciles/Recursos/Por ingrediente/Chocolate\|Chocolate]]
    - [[CRFáciles/Recursos/Por ingrediente/Leche de Coco\|Leche de Coco]]
    - [[CRFáciles/Recursos/Por ingrediente/Leche de vaca\|Leche de vaca]]
