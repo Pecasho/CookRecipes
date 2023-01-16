@@ -59,7 +59,7 @@ Una vez cortada en dos, la cebolla se puede cortar o trocear en dados, rápidame
 3. **Con la punta del cuchillo**, corte en vertical, lo más cerca posible de la raíz.
 4. **Corte en vertical** otra vez, pero de través, para obtener dados de tamaño similar. Deseche la raíz.
 
-#cebolla
+#cebolla-cabezona
 
 # Lavar y cortar puerros en juliana
 El puerro es el miembro más sueva de la familia del ajo y la cebolla. Es perfecto para sopas y salsas cortado en juliana.
